@@ -1,2 +1,2 @@
 # wordle
-COMP110 project where I recreated the NYT Wordle game
+I recreated the NYT Wordle game as a project for COMP110.
